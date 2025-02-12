@@ -1,2 +1,2 @@
 # QR_Code_Reader
-StreamlitでQRコードリーダーを開発する。
+JS.QRでQRコードリーダーを開発する。
